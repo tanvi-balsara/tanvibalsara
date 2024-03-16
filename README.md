@@ -1,4 +1,4 @@
-### Hey there,I'm Tanvi Balsara!
+### Hey there 👋, I'm Tanvi Balsara!
 
 
 ## 🌐 Socials:
