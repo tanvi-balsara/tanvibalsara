@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/tanvi-balsara-6480aa265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvibalsara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanvibalsara18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvibalsara" height="30" width="40" /></a>
 
 
 ## 📊 GitHub Stats:
